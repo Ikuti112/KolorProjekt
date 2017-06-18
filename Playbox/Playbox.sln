@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playbox", "Playbox.csproj", "{075CE72D-4BD8-5759-03D6-9C0A1BEA3C6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playbox.Editor", "Playbox.Editor.csproj", "{912DFF55-C17B-71EB-BDC0-FC39C366F8E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{075CE72D-4BD8-5759-03D6-9C0A1BEA3C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{075CE72D-4BD8-5759-03D6-9C0A1BEA3C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{075CE72D-4BD8-5759-03D6-9C0A1BEA3C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{075CE72D-4BD8-5759-03D6-9C0A1BEA3C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{912DFF55-C17B-71EB-BDC0-FC39C366F8E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912DFF55-C17B-71EB-BDC0-FC39C366F8E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912DFF55-C17B-71EB-BDC0-FC39C366F8E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912DFF55-C17B-71EB-BDC0-FC39C366F8E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
